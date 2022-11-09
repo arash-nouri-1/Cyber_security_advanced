@@ -8,7 +8,7 @@
 
 4. Login met de volgende credentials:
 
-luke	password	VISITOR  
-han	password	ADMIN
+User: luke	password: password	als je als VISITOR wilt inloggen  
+User: han	password: password	als je als ADMIN wilt inloggen
 
 
